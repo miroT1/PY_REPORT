@@ -13,4 +13,4 @@
 ### **Результат работы:**
 
 - [Готовый проект](https://mirot1.github.io/PY_REPORT/)
-- [Репозиторий GitHub](https://github.com/miroT1/PY_REPORT)
+  - [Репозиторий GitHub](https://github.com/miroT1/PY_REPORT)
